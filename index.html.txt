@@ -10,5 +10,9 @@
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
 
+<!-- modified to commit without staging-->
+<p>Learn a tech skill</p>
+
+
 </body>
 </html>
