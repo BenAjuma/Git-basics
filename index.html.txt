@@ -13,6 +13,11 @@
 <!-- modified to commit without staging-->
 <p>Learn a tech skill</p>
 
+<p> Our imaginary code fix added to master</p>
+
+<p>A new line in our file!</p>
+<div><img src="img_hello_git.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
+
 
 </body>
 </html>
