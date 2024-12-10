@@ -18,6 +18,8 @@
 <p>A new line in our file!</p>
 <div><img src="img_hello_git.jpg" alt="Hello Git" style="width:90%;max-width:630px"></div>
 
+<p> Editing to show how new git branch works</p>
+
 
 </body>
 </html>
